@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(numRecog)
+find_package( OpenCV REQUIRED )
+add_executable(numRecog opencv_main.cpp )
+target_link_libraries(numRecog ${OpenCV_LIBS} )
