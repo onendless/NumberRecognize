@@ -17,9 +17,9 @@ the final achievement is an executable program under Ubuntu, which can be used t
 
 # examples
 
-![img](https://github.com/onendless/NumberRecognize/tree/master/pic/readme/target.png)
+- ![img](<https://raw.githubusercontent.com/onendless/NumberRecognize/master/pic/readme/target.png>)
 
-![img](https://github.com/onendless/NumberRecognize/tree/master/pic/readme/result.png)
+- ![img](<https://raw.githubusercontent.com/onendless/NumberRecognize/master/pic/readme/result.png>)
 
 
->>>>>>> 
+>>>
