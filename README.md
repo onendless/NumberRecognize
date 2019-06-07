@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-
 # HandWritten Number Recognize
 
 two part of this project:
@@ -20,8 +17,8 @@ the final achievement is an executable program under Ubuntu, which can be used t
 
 # examples
 
-- ![img](https://github.com/onendless/NumberRecognize/tree/master/pic/target.png)
+- ![img](https://github.com/onendless/NumberRecognize/tree/master/pic/readme/target.png)
 
-- # ![img](https://github.com/onendless/NumberRecognize/tree/master/pic/result.png)
+- ![img](https://github.com/onendless/NumberRecognize/tree/master/pic/readme/result.png)
 
-> > > > > > > 71ff9f9f65a951ae0924b6155f5bfa8cb07eb5e7
+
